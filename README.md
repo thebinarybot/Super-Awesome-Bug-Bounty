@@ -19,7 +19,7 @@ Next, you need to have an indepth understanding of what are the different well-k
 
 Everybody learns at their own pace. Do not force yourself to grasp everything at the first attemp. It takes time and that's completely okay <3
 
-### I understood and practiced the labs. What next?
+### What next?
 
 Up next, you have to enroll in a bug bounty platform and choose a right program. A bug bounty platform contains many bug bounty programs and they all vary from one another in terms of money, triaging time and other factors. You can also hunt on bug bounty programs outside platforms, but more on that later. 
 
