@@ -6,11 +6,11 @@ I also create content in Twitter on a regular basis and store select information
 
 ----------------------------
 
-### Where do I start?
+### ➡️ Where do I start?
 
 Before starting Web Application Hacking/Bug Bounty Hunting, it's super important to understand how Internet functions. To learn more, visit https://security.thebotsite.me/bug-bounty-hunting/basics 
 
-### Okay I know the basics. Now what to do?
+### 👩‍💻 Okay I know the basics. Now what to do?
 
 Next, you need to have an indepth understanding of what are the different well-known vulnerabilities in the wild and why they work. To learn this, I would recommend you checking out the following resources:
 
@@ -19,7 +19,7 @@ Next, you need to have an indepth understanding of what are the different well-k
 
 Everybody learns at their own pace. Do not force yourself to grasp everything at the first attemp. It takes time and that's completely okay <3
 
-### What next?
+### 🧿 What next?
 
 Up next, you have to enroll in a bug bounty platform and choose a right program. A bug bounty platform contains many bug bounty programs and they all vary from one another in terms of money, triaging time and other factors. You can also hunt on bug bounty programs outside platforms, but more on that later. 
 
