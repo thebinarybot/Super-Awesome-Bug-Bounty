@@ -1,2 +1,3 @@
-# Super-Awesome-Bug-Bounty
+# Super-Awesome-Bug-Bounty ⚡
+
 Everything Bug Bounty
